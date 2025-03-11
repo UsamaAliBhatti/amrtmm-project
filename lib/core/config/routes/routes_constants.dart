@@ -1,0 +1,61 @@
+class RoutesPathConstants {
+  static const splashScreen = '/';
+  static const homeScreen = '/home';
+  static const mainScreen = '/main';
+  static const onboardingScreen = '/onBoarding';
+  static const editProifleScreen = '/editProfile';
+  static const createServiceScreen = '/createService';
+  static const bankDetailScreen = '/bankDetail';
+  static const reviewScreen = '/review';
+  static const walletScreen = '/wallet';
+  static const packageScreen = '/package';
+  static const dashboardScreen = '/dashboard';
+  static const loginScreen = '/login';
+  static const registerScreen = '/register';
+  static const serviceScreen = '/service';
+  static const offersScreen = '/offers';
+  static const updateQuotationScreen = '/updateQuotation';
+  static const artisanDetailScreen = '/artisanDetail';
+  static const paymentRequestScreen = '/paymentRequest';
+  static const taskPaymentScreen = '/taskPayment';
+  static const packagePurchaseScreen = '/packagePurchase';
+  static const noitificationScreen = '/notification';
+  static const profile = '/profile';
+  static const manageTasks = '/manageTasks';
+  static const otpScreen = '/otpScreen';
+  static const commonScreen = '/commonScreen';
+  static const contactUsScreen = '/contactUsScreen';
+  static const allTasksScreen = '/allTasksScreen';
+  static const taskDetailsScreen = '/taskDetailsScreen';
+}
+
+class RoutesNameConstants {
+  static const splashScreen = 'Splash';
+  static const homeScreen = 'Home';
+  static const mainScreen = 'Main';
+  static const onboardingScreen = 'OnBoarding';
+  static const editProifleScreen = 'EditProfile';
+  static const createServiceScreen = 'CreateService';
+  static const bankDetailScreen = 'BankDetail';
+  static const reviewScreen = 'Review';
+  static const walletScreen = 'Wallet';
+  static const packageScreen = 'Package';
+  static const dashboardScreen = 'Dashboard';
+  static const loginScreen = 'Login';
+  static const registerScreen = 'Register';
+  static const serviceScreen = 'Service';
+  static const offersScreen = 'Offers';
+  static const updateQuotationScreen = 'UpdateQuotation';
+  static const artisanDetailScreen = 'ArtisanDetail';
+  static const paymentRequestScreen = 'PaymentRequest';
+  static const taskPaymentScreen = 'TaskPayment';
+  static const packagePurchaseScreen = 'PackagePurchase';
+  static const noitificationScreen = 'Notification';
+  static const profile = 'Profile';
+  static const manageTasks = 'ManageTasks';
+  static const otpScreen = 'OtpScreen';
+  static const commonScreen = 'CommonScreen';
+  static const contactUsScreen = 'ContactUsScreen';
+  static const allTasksScreen = 'AllTasksScreen';
+  static const taskDetailsScreen = 'TaskDetailsScreen';
+}
